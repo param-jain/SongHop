@@ -1,6 +1,8 @@
 angular.module('songhop.controllers', ['ionic', 'songhop.services'])
 
-
+/** Commiting a Git Change BLa BLa BLa
+ * 
+ */
 /*
 Controller for the discover page
 */
