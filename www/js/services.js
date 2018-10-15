@@ -64,9 +64,7 @@ angular.module('songhop.services', ['ionic.utils'])
   return o;
 })
 
-.factory('User', function($http, $q, $localstorage, SERVER) {
-
-{/*
+.factory('User', function($http, $q, $localstorage, SERVER) {{/*
   o.addSongToFavorites = function(song) {
           // make sure there's a song to add
           if (!song) return false;
@@ -216,7 +214,6 @@ angular.module('songhop.services', ['ionic.utils'])
       o.favorites = [];
       o.newFavorites = 0;
     }
-
 
   return o;
 })
