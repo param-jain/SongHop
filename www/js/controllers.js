@@ -164,4 +164,3 @@ Splash Controller
   }
 
 });
-
