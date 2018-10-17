@@ -1,6 +1,5 @@
 angular.module('songhop.services', ['ionic.utils'])
 
-
 .factory('Recommendations', function($http, SERVER, $q) {
 
   var media;
