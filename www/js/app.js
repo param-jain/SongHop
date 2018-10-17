@@ -27,7 +27,6 @@ angular.module('songhop', ['ionic', 'songhop.controllers'])
   // Each state's controller can be found in controllers.js.
   $stateProvider
 
-
   // setup an abstract state for the tabs directive
     .state('tab', {
       url: '/tab',
